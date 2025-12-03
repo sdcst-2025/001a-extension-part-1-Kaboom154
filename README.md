@@ -1,5 +1,5 @@
 # 100k-choose-your-own-adventure
-##Create a choose your own adventure program
+## Create a choose your own adventure program
 
 Choose your own adventure (CYAC) was a popular series of books that was published in the mid 1980's.  Instead of reading the book from cover to cover, you would read the contents of a page.  It would have a few options about what you wanted to do next in the story, and the options would direct you to an appropriate page to continue your adventure. Some options would allow you to keep going, while others could lead to death or a happy ending.  
 
