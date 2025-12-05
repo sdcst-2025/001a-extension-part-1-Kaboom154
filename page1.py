@@ -1,5 +1,5 @@
-#page 1 - 
 from os import system
-system("clear||cls")
+def page1():
+    system("clear||cls")
 
-print("hello")
+    print("hello")

@@ -1,4 +1,4 @@
-#page 2 - 
 from os import system
-system("clear||cls")
+def page2():
+    system("clear||cls")
 
